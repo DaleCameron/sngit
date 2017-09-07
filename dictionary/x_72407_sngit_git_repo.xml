@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Git Repo" max_length="40" name="x_72407_sngit_git_repo" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Password" max_length="255" name="password" type="password2"/>
+        <element label="Path" max_length="2048" name="path" type="string"/>
+        <element choice="1" label="Protocal" max_length="40" name="protocal" type="choice">
+            <choice>
+                <element label="https" value="https"/>
+                <element label="ssh" value="ssh"/>
+            </choice>
+        </element>
+        <element label="UserName" max_length="40" name="username" type="string"/>
+    </element>
+</database>
