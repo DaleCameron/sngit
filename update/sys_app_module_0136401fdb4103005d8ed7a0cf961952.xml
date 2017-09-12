@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Git Repos">ec941771db8103005d8ed7a0cf9619aa</application>
+        <application display_value="SNGit">f436401fdb4103005d8ed7a0cf96194f</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -12,33 +12,33 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Git Repos</mobile_title>
+        <mobile_title>SNGits</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_72407_sngit_git_repo</name>
+        <name>x_72407_sngit_sngit</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_72407_sngit.git_repo_user</roles>
+        <roles>x_72407_sngit.sngit_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-09-07 21:14:44</sys_created_on>
+        <sys_created_on>2017-09-11 22:03:58</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e0941771db8103005d8ed7a0cf9619df</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>SNGit Repos</sys_name>
+        <sys_id>0136401fdb4103005d8ed7a0cf961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNGits</sys_name>
         <sys_overrides/>
         <sys_package display_value="sngit" source="x_72407_sngit">d7cd8e75db0103005d8ed7a0cf96198b</sys_package>
         <sys_policy/>
         <sys_scope display_value="sngit">d7cd8e75db0103005d8ed7a0cf96198b</sys_scope>
-        <sys_update_name>sys_app_module_e0941771db8103005d8ed7a0cf9619df</sys_update_name>
+        <sys_update_name>sys_app_module_0136401fdb4103005d8ed7a0cf961952</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-11 22:24:48</sys_updated_on>
+        <sys_updated_on>2017-09-11 22:03:58</sys_updated_on>
         <timeline_page/>
-        <title>SNGit Repos</title>
+        <title>SNGits</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

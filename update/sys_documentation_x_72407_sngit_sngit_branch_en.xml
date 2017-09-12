@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="SNGit Repo" language="en" table="x_72407_sngit_git_repo">
+    <sys_documentation element="branch" label="Branch" language="en" table="x_72407_sngit_sngit">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>branch</element>
             <help/>
             <hint/>
-            <label>SNGit Repo</label>
+            <label>Branch</label>
             <language>en</language>
-            <name>x_72407_sngit_git_repo</name>
-            <plural>SNGit Repos</plural>
+            <name>x_72407_sngit_sngit</name>
+            <plural>Branches</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-07 21:14:45</sys_created_on>
-            <sys_id>2c945771db8103005d8ed7a0cf961935</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_name>SNGit Repo</sys_name>
+            <sys_created_on>2017-09-11 22:03:59</sys_created_on>
+            <sys_id>4d36401fdb4103005d8ed7a0cf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Branch</sys_name>
             <sys_package display_value="sngit" source="x_72407_sngit">d7cd8e75db0103005d8ed7a0cf96198b</sys_package>
             <sys_policy/>
             <sys_scope display_value="sngit">d7cd8e75db0103005d8ed7a0cf96198b</sys_scope>
-            <sys_update_name>sys_documentation_x_72407_sngit_git_repo__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_72407_sngit_sngit_branch_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-11 22:24:48</sys_updated_on>
+            <sys_updated_on>2017-09-11 22:03:59</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

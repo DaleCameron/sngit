@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="028bdc27db4103005d8ed7a0cf9619a6" sys_domain="global" table="x_72407_sngit_git_repo" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>c68bdc27db4103005d8ed7a0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>path</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>ce8bdc27db4103005d8ed7a0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>protocal</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>428bdc27db4103005d8ed7a0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>c28bdc27db4103005d8ed7a0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>468bdc27db4103005d8ed7a0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>username</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>c68bdc27db4103005d8ed7a0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>master_branch</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>4a8bdc27db4103005d8ed7a0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>ca8bdc27db4103005d8ed7a0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>master_path_map</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>4e8bdc27db4103005d8ed7a0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_id>ce8bdc27db4103005d8ed7a0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_72407_sngit_git_repo" sys_domain="global" view="Default view">028bdc27db4103005d8ed7a0cf9619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_72407_sngit_git_repo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 18:15:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>028bdc27db4103005d8ed7a0cf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_72407_sngit_git_repo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sngit" source="x_72407_sngit">d7cd8e75db0103005d8ed7a0cf96198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sngit">d7cd8e75db0103005d8ed7a0cf96198b</sys_scope>
+            <sys_update_name>sys_ui_section_028bdc27db4103005d8ed7a0cf9619a6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 18:15:40</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

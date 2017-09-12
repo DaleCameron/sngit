@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="SNGit" max_length="40" name="x_72407_sngit_sngit" type="collection">
+        <element label="Branch" max_length="40" name="branch" type="string"/>
+        <element attributes="show_all_tables=true" label="Document" max_length="32" name="document" type="document_id"/>
+        <element label="Path Map" max_length="40" name="path_map" type="string"/>
+        <element label="Repo" max_length="32" name="repo" reference="x_72407_sngit_git_repo" type="reference"/>
+        <index name="index">
+            <element name="document"/>
+        </index>
+        <index name="index2">
+            <element name="repo"/>
+        </index>
+    </element>
+</database>

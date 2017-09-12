@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Git Repo" max_length="40" name="x_72407_sngit_git_repo" type="collection">
+    <element label="SNGit Repo" max_length="40" name="x_72407_sngit_git_repo" type="collection">
+        <element label="Master Branch" max_length="40" name="master_branch" type="string"/>
+        <element label="Master Path Map" max_length="40" name="master_path_map" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element label="Password" max_length="255" name="password" type="password2"/>
         <element label="Path" max_length="2048" name="path" type="string"/>
